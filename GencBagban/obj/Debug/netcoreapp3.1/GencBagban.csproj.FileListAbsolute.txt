@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\bin\Debug\netcoreapp3.1\GencBagban.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\GencBagban\obj\Debug\netcoreapp3.1\GencBagban.genruntimeconfig.cache

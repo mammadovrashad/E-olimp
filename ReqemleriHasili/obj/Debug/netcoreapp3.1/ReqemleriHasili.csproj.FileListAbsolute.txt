@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\bin\Debug\netcoreapp3.1\ReqemleriHasili.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ReqemleriHasili\obj\Debug\netcoreapp3.1\ReqemleriHasili.genruntimeconfig.cache

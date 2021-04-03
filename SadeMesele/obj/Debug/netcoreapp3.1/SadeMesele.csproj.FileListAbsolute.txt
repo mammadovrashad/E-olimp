@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\bin\Debug\netcoreapp3.1\SadeMesele.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\SadeMesele\obj\Debug\netcoreapp3.1\SadeMesele.genruntimeconfig.cache
