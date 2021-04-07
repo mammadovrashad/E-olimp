@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\bin\Debug\netcoreapp3.1\cemin kvadrati.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ConsoleApp1\obj\Debug\netcoreapp3.1\cemin kvadrati.genruntimeconfig.cache

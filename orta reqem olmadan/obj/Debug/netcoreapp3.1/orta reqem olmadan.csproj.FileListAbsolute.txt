@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\bin\Debug\netcoreapp3.1\orta reqem olmadan.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\orta reqem olmadan\obj\Debug\netcoreapp3.1\orta reqem olmadan.genruntimeconfig.cache

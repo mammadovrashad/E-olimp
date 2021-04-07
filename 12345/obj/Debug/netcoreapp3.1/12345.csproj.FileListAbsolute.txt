@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\bin\Debug\netcoreapp3.1\12345.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\12345\obj\Debug\netcoreapp3.1\12345.genruntimeconfig.cache

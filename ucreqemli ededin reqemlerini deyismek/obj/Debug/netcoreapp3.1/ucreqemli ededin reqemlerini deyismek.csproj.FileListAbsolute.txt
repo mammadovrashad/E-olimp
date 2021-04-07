@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\bin\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\ucreqemli ededin reqemlerini deyismek\obj\Debug\netcoreapp3.1\ucreqemli ededin reqemlerini deyismek.genruntimeconfig.cache

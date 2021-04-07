@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\bin\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\4-reqemliden 2-reqemliye\obj\Debug\netcoreapp3.1\4-reqemliden 2-reqemliye.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ucreqemli ededin reqemlerini deyismek/1.0.0": {
+        "runtime": {
+          "ucreqemli ededin reqemlerini deyismek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ucreqemli ededin reqemlerini deyismek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "orta reqem olmadan/1.0.0": {
+        "runtime": {
+          "orta reqem olmadan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "orta reqem olmadan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
