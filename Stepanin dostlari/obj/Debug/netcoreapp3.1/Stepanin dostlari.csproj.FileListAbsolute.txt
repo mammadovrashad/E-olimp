@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\bin\Debug\netcoreapp3.1\Stepanin dostlari.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Stepanin dostlari\obj\Debug\netcoreapp3.1\Stepanin dostlari.genruntimeconfig.cache

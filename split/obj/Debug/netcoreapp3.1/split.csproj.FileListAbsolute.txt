@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\split.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\split.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\bin\Debug\netcoreapp3.1\kvadratlari cemi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\split\obj\Debug\netcoreapp3.1\kvadratlari cemi.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\bin\Debug\netcoreapp3.1\abc.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\abc\obj\Debug\netcoreapp3.1\abc.genruntimeconfig.cache

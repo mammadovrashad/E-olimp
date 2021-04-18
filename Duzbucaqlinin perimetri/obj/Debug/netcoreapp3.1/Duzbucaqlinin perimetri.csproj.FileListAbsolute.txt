@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\bin\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin perimetri\obj\Debug\netcoreapp3.1\Duzbucaqlinin perimetri.genruntimeconfig.cache

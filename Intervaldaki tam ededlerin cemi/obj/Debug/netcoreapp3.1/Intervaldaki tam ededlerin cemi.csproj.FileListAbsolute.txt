@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\bin\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Intervaldaki tam ededlerin cemi\obj\Debug\netcoreapp3.1\Intervaldaki tam ededlerin cemi.genruntimeconfig.cache

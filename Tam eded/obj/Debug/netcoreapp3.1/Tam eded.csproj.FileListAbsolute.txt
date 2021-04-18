@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\bin\Debug\netcoreapp3.1\Tam eded.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Tam eded\obj\Debug\netcoreapp3.1\Tam eded.genruntimeconfig.cache

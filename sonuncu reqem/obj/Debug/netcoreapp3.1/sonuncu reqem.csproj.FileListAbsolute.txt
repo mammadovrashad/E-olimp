@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\bin\Debug\netcoreapp3.1\sonuncu reqem.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\sonuncu reqem\obj\Debug\netcoreapp3.1\sonuncu reqem.genruntimeconfig.cache

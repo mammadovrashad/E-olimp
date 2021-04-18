@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\bin\Debug\netcoreapp3.1\Duzbucaqlinin saesi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Duzbucaqlinin saesi\obj\Debug\netcoreapp3.1\Duzbucaqlinin saesi.genruntimeconfig.cache
