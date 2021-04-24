@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\bin\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Deniz quldurlari ve sikkeler\obj\Debug\netcoreapp3.1\Deniz quldurlari ve sikkeler.genruntimeconfig.cache

@@ -25,23 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello world", "Hello world\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kvadratlari cemi", "split\kvadratlari cemi.csproj", "{1F4AD9C5-444B-4432-A0BA-9803D17A2976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervaldaki tam ededlerin cemi", "Intervaldaki tam ededlerin cemi\Intervaldaki tam ededlerin cemi.csproj", "{2641F5D8-3363-41B9-A448-AAF87810C62F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intervaldaki tam ededlerin cemi", "Intervaldaki tam ededlerin cemi\Intervaldaki tam ededlerin cemi.csproj", "{2641F5D8-3363-41B9-A448-AAF87810C62F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almalari bolusdurme-1", "Almalari bolusdurme-1\Almalari bolusdurme-1.csproj", "{AFF7EBFF-4879-418E-AD57-3C5035F79BD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Almalari bolusdurme-1", "Almalari bolusdurme-1\Almalari bolusdurme-1.csproj", "{AFF7EBFF-4879-418E-AD57-3C5035F79BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almalari bolusdurme-2", "Almalari bolusdurme-2\Almalari bolusdurme-2.csproj", "{0F743400-68CD-4A99-909F-ACC18D68B8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Almalari bolusdurme-2", "Almalari bolusdurme-2\Almalari bolusdurme-2.csproj", "{0F743400-68CD-4A99-909F-ACC18D68B8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abc", "abc\abc.csproj", "{EE2D2762-24F3-455B-A064-B1E60472C75D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abc", "abc\abc.csproj", "{EE2D2762-24F3-455B-A064-B1E60472C75D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sonuncu reqem", "sonuncu reqem\sonuncu reqem.csproj", "{DE31EC6E-C865-48D3-881B-917E510DB001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sonuncu reqem", "sonuncu reqem\sonuncu reqem.csproj", "{DE31EC6E-C865-48D3-881B-917E510DB001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepanin dostlari", "Stepanin dostlari\Stepanin dostlari.csproj", "{B8A51415-49A5-4884-8078-DC61E72282A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepanin dostlari", "Stepanin dostlari\Stepanin dostlari.csproj", "{B8A51415-49A5-4884-8078-DC61E72282A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tam eded", "Tam eded\Tam eded.csproj", "{CFD2D62F-7249-4C32-B3DD-5DCD54280717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tam eded", "Tam eded\Tam eded.csproj", "{CFD2D62F-7249-4C32-B3DD-5DCD54280717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duzbucaqlinin perimetri", "Duzbucaqlinin perimetri\Duzbucaqlinin perimetri.csproj", "{428BFC31-FF40-432A-B2E2-8225BFA32AB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duzbucaqlinin perimetri", "Duzbucaqlinin perimetri\Duzbucaqlinin perimetri.csproj", "{428BFC31-FF40-432A-B2E2-8225BFA32AB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duzbucaqlinin saesi", "Duzbucaqlinin saesi\Duzbucaqlinin saesi.csproj", "{3E0CE0A8-C387-4006-8943-90BAD70F6D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duzbucaqlinin saesi", "Duzbucaqlinin saesi\Duzbucaqlinin saesi.csproj", "{3E0CE0A8-C387-4006-8943-90BAD70F6D20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deniz quldurlari ve sikkeler", "Deniz quldurlari ve sikkeler\Deniz quldurlari ve sikkeler.csproj", "{54D7D251-B9FC-4702-A9AC-570B0B7C0597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cevrilme", "Cevrilme\Cevrilme.csproj", "{9E1871AB-17BE-42A6-9C5F-A5069ADDD9AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{3E0CE0A8-C387-4006-8943-90BAD70F6D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E0CE0A8-C387-4006-8943-90BAD70F6D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E0CE0A8-C387-4006-8943-90BAD70F6D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D7D251-B9FC-4702-A9AC-570B0B7C0597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D7D251-B9FC-4702-A9AC-570B0B7C0597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D7D251-B9FC-4702-A9AC-570B0B7C0597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D7D251-B9FC-4702-A9AC-570B0B7C0597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1871AB-17BE-42A6-9C5F-A5069ADDD9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1871AB-17BE-42A6-9C5F-A5069ADDD9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1871AB-17BE-42A6-9C5F-A5069ADDD9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1871AB-17BE-42A6-9C5F-A5069ADDD9AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

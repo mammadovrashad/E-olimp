@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.exe
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.deps.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.runtimeconfig.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.runtimeconfig.dev.json
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\bin\Debug\netcoreapp3.1\Cevrilme.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.dll
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.pdb
+C:\Users\hp\Desktop\E-olimp\E-olimp\Cevrilme\obj\Debug\netcoreapp3.1\Cevrilme.genruntimeconfig.cache
